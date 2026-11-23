@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**TheJashwanth44/TheJashwanth44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Jashwanth Reddy 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Cybersecurity Enthusiast | Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 B.Tech Student
+- 🔐 Interested in Cybersecurity
+- 💻 Learning Java and Programming
+- 🌱 Exploring Software Development
+- 🎯 Working towards becoming a skilled Cybersecurity Professional
+
+### 🛠️ Currently Learning
+
+- Python
+- Java
+- Cybersecurity Fundamentals
+- Git & GitHub
+- Programming and Problem Solving
+
+### 📌 Goals
+
+- Build practical projects
+- Improve programming skills
+- Explore cybersecurity tools
+- Contribute to open-source projects
+
+### 📫 Connect With Me
+
+- GitHub: [@TheJashwanth44](https://github.com/TheJashwanth44)
