@@ -36,6 +36,15 @@
 </p>
 
 
+### 🚀 My Projects
+
+| Project | Description | Status |
+|---|---|---|
+| Java Practice | Learning Java through programming exercises | In Progress |
+| Python Practice | Learning Python fundamentals | In Progress |
+| Cybersecurity Learning | Exploring cybersecurity concepts and tools | In Progress |
+
+
 ### 📌 Goals
 
 - Build practical projects
