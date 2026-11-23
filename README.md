@@ -20,6 +20,14 @@
 - Cybersecurity Fundamentals
 - Git & GitHub
 - Programming and Problem Solving
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,vscode" />
+</p>
+
+
+
 
 ### 📌 Goals
 
